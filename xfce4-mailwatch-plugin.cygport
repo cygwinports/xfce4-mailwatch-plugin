@@ -2,7 +2,7 @@ inherit xfce4
 
 NAME="xfce4-mailwatch-plugin"
 VERSION=1.2.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Xfce"
 SUMMARY="Xfce mail watcher panel plugin"
 DESCRIPTION="Xfce4 Mailwatch Plugin is a multi-protocol, multi-mailbox mail
